@@ -1,0 +1,182 @@
+body{
+    text-align: center;
+    margin: 0;
+    
+}
+
+.Name{
+    width: 10%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: rgb(39, 133, 187);
+    
+    
+}
+.H2{
+    font-family:'Arvo', serif;
+    color: rgb(39, 133, 187);
+    padding-top: 30px;
+
+}
+.p1{
+    
+    margin: 0 auto;
+    font-size: 2.5rem;
+    color: rgb(41, 156, 194);
+    size: 10%;
+}
+.top-im{
+    margin:0;
+    overflow: hidden;
+    width: 100vw;
+
+
+}
+.para{
+  text-align: left;
+}
+.middle-container{
+  background-color: #ddd;
+  padding-right: 0;
+  padding-left: 0;
+  
+   
+
+   
+
+}
+.bottom-container{
+  background-color: #E4F9F5;
+    
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    object-fit: cover;
+
+}
+.Moun{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  object-fit: cover;
+  padding-bottom: 0%;
+}
+.top-cloud{
+    position:absolute;
+    right: 200px;
+    top: 58px;
+    width: 100%;
+  max-width: 200px;
+  height: auto;
+  object-fit: cover;
+    
+}
+.Python{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  height:150px;
+  
+  
+
+}
+.MLimage{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  height:150px;
+  
+  
+
+}
+.Git{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height:150px;
+
+}
+.C_p{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height:150px;
+
+
+}
+.Profileimg{
+  padding-top: 30px;
+}
+.skill-row{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 500px; 
+    line-height: 2;
+    
+   
+     
+}
+.tab1{
+   margin: 0 auto;
+   display: inline-table;
+}
+.skills{
+    background-color:  #E4F9F5;
+    position: relative;
+    padding-bottom: 30px;
+}
+.profile{
+    background-color: #E4F9F5;
+    padding-bottom: 30px;
+
+}
+.para{
+    text-indent: 30px;
+    color: black;
+    font-family: 'New Tegomin', serif;
+}
+.Hello{
+  font-family: 'New Tegomin', serif;
+  color: rgb(39, 133, 187);
+
+}
+.bottom-container{
+  background-color: #45d8bd ;
+}
+.contact-me{
+  background-color: #53d8c0 ;
+  font-family: 'Times New Roman', Times, serif;
+  font: 1em sans-serif;
+}
+
+@media only screen and (min-width:800px) {
+  /* For tablets: */
+  .top-container.bottom-container.middle-container {
+    width: 100%;
+    padding: 0;
+  }
+  .bottom-cloud.top-cloud{
+    position:absolute;
+    right: 200px;
+    top: 58px;
+    width: 100%;
+    
+    height: auto;
+    object-fit: cover;
+    
+  }
+}
+
+
+
