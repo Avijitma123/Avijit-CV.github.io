@@ -166,6 +166,7 @@ body{
 }
 .touch-text{
   padding-top: 30px;
+  padding-bottom: 40px;
   font-size: large;
   color: #37e67d;
 }
