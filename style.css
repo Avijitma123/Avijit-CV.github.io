@@ -161,6 +161,10 @@ body{
   font-family: 'Times New Roman', Times, serif;
   font: 1em sans-serif;
 }
+.footer-link{
+  padding: 14px 25px;
+  display: inline-block;
+}
 
 
 @media only screen and (min-width:800px) {
