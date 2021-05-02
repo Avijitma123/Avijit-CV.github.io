@@ -168,7 +168,12 @@ body{
   padding-top: 30px;
   padding-bottom: 40px;
   font-size: large;
-  color: #37e67d;
+  color: #2590e7;
+}
+.touch-1{
+  padding-top: 30px;
+  color: #3498db;
+
 }
 .footer-link{
   padding: 14px 25px;
