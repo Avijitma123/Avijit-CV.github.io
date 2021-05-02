@@ -164,6 +164,11 @@ body{
   padding-bottom: 0;
   height: 300px;
 }
+.touch-text{
+  padding-top: 30px;
+  font-size: large;
+  color: #37e67d;
+}
 .footer-link{
   padding: 14px 25px;
   display: inline-block;
@@ -184,7 +189,7 @@ body{
   font-size: 17px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  padding-bottom: 30px;
+  
 }
 
 .btn:hover {
