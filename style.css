@@ -35,6 +35,7 @@ body{
 }
 .para{
   text-align: left;
+  width: 30%;
 }
 .middle-container{
   background-color: #ddd;
