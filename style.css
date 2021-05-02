@@ -49,7 +49,7 @@ body{
 }
 .bottom-container{
   background-color: #E4F9F5;
-  padding-top: 30px;
+ 
     
 
 }
@@ -155,10 +155,15 @@ body{
 }
 .bottom-container{
   background-color: #45d8bd ;
+
 }
 .contact-me{
   background-color: #53d8c0 ;
   font-family: 'Times New Roman', Times, serif;
+  font: 1em sans-serif;
+}
+.footer-link{
+  padding-top: 30px;
   font: 1em sans-serif;
 }
 .btn {
