@@ -8,6 +8,12 @@ body{
             line-height: 1.6; /* Optional: Adjust line height for better readability */
             /* Add any additional styling for the "Para" class as needed */
         }
+#introContainer {
+            border: 2px solid black;
+            padding: 20px;
+            border-radius: 10px;
+            overflow: hidden; /* Optional: Prevents border radius from affecting inner elements */
+        }
 
 .Name{
     width: 10%;
